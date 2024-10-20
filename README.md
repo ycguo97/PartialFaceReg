@@ -1,3 +1,5 @@
 # PartialFaceReg
 
-The code for paper 'Landmark Detection and Registration on Partial Face via Quasi-conformal Geometry and Machine Learning'. It will be available soon.
+The code for the paper 'Deep Learning-Based Quasi-Conformal Surface Registration for Partial 3D Faces Applied to Facial Recognition'. 
+
+The code for LD-net is available. More code will be available soon.
